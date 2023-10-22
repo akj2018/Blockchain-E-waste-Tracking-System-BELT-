@@ -24,3 +24,11 @@ https://colab.research.google.com/drive/1KfSAJ25XE4syYa1NWGjSqi-lAmEhpyf4?usp=sh
 ![image](https://github.com/akj2018/akj_justin_project/assets/43956935/936a51b8-b4f2-4f9c-9784-576b1c4cdc1c)
 
 ![image](https://github.com/akj2018/akj_justin_project/assets/43956935/bb96f889-ffcb-4113-a08a-7280f432d4f8)
+
+![image](https://github.com/akj2018/akj_justin_project/assets/43956935/2189a096-ef37-421e-ad1f-6a74988a31d4)
+
+![image](https://github.com/akj2018/akj_justin_project/assets/43956935/326a80ab-1993-4f28-a4b3-3599da784408)
+
+![image](https://github.com/akj2018/akj_justin_project/assets/43956935/f4b97e4c-a650-4ede-8fb5-7d4e4aaebea9)
+
+
