@@ -1,3 +1,8 @@
+# Colab Links
+https://colab.research.google.com/drive/1O13tkZMoanl-IakYBy_bDLDCcdrDb-_A?usp=sharing
+
+https://colab.research.google.com/drive/1KfSAJ25XE4syYa1NWGjSqi-lAmEhpyf4?usp=sharing
+
 # akj_justin_main_code!
 ![image](https://github.com/akj2018/akj_justin_project/assets/43956935/cd5e8b77-69e3-450f-b84b-f935bf41b7b6)
 
