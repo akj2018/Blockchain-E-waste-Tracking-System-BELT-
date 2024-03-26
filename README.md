@@ -1,4 +1,4 @@
-# Blockchain-based E-waste Lifecycle Passport (BELP)
+# Blockchain-based E-waste Tracking System (BETS)
 E-waste management system tracking the product lifecycle from inception to end-of-life via Web3 and React to enhance system capabilities.
 
 ## Problem Statement
